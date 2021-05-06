@@ -29,7 +29,7 @@ roslaunch mecanumrover_samples vmecanumrover_withworld.launch
 
 
 
-# 使用するための事前パッケージインストール一覧
+# 使用するための事前パッケージインストール一覧(ディストリビューションがmelodicの場合)
 ・sudo apt install ros-melodic-gmapping
 
 ・sudo apt install ros-melodic-map-server
