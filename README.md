@@ -16,6 +16,8 @@ WPT_Robotはプログラミング言語 C++で記述されています。
 
 32 ビット OS での動作確認はしていないので、必要な場合はご自分で試してください。
 
+![mecanumrover1](https://user-images.githubusercontent.com/65348333/117229943-fbcf0100-ae56-11eb-81a7-3dead41fd7f8.png)
+
 
 
 # 使用するための事前パッケージインストール一覧
