@@ -6,8 +6,6 @@ ROSでのプログラム開発が行えるため、様々な環境・用途で�
 
 # 実行環境
 
-WPT_Robotはプログラミング言語 C++で記述されています。
-
 | Linux Ubuntu 16.04 LTS |                   gcc 5.4.0                    |
 
 | Linux Ubuntu 18.04 LTS |                   gcc 5.4.0                    |
